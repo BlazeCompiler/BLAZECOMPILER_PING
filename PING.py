@@ -3,18 +3,19 @@ import time
 
 # Updated Render service URLs
 urls = [
-    "https://blazecompiler-cpp.onrender.com",
-    "https://blazecompiler-c.onrender.com",
-    "https://blazecompiler-csharp.onrender.com",
-    "https://blazecompiler-java.onrender.com",
-    "https://blazecompiler-javascript.onrender.com",
-    "https://blazecompiler-typescript.onrender.com",
-    "https://blazecompiler-r.onrender.com",
-    "https://blazecompiler-rust.onrender.com",
-    "https://blazecompiler-ruby.onrender.com",
-    "https://blazecompiler-python.onrender.com",
-    "https://blazecompiler-php.onrender.com",
-    "https://blazecompiler-golang.onrender.com"
+    "https://blazecompiler-cpp-qvh9.onrender.com",
+    "https://blazecompiler-python-fzn3.onrender.com",
+    "https://blazecompiler-swift-abvh.onrender.com",
+    "https://blazecompiler-ruby-mmep.onrender.com",
+    "https://blazecompiler-csharp-j8ja.onrender.com",
+    "https://blazecompiler-golang-zblk.onrender.com",
+    "https://blazecompiler-java-pfyj.onrender.com",
+    "https://blazecompiler-rust-foh5.onrender.com",
+    "https://blazecompiler-r-ry8z.onrender.com",
+    "https://blazecompiler-typescript-ypr9.onrender.com",
+    "https://blazecompiler-javascript-uo4x.onrender.com",
+    "https://blazecompiler-c-kuld.onrender.com",
+    "https://blazecompiler-php-ey71.onrender.com"
 ]
 
 while True:
