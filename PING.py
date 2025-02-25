@@ -4,7 +4,7 @@ import time
 # Updated Render service URLs
 urls = [
     "https://blazecompiler-cpp-fwp0.onrender.com",
-    "https://blazecompiler-python-fzn3.onrender.com",
+    "https://blazecompiler-python-ncb5.onrender.com",
     "https://blazecompiler-swift-abvh.onrender.com",
     "https://blazecompiler-ruby-mmep.onrender.com",
     "https://blazecompiler-csharp-j8ja.onrender.com",
