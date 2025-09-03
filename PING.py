@@ -6,7 +6,8 @@ urls = [
     "https://blazecompiler-python-cf80.onrender.com",
     "https://blazecompiler-cpp-6kk2.onrender.com",
     "https://blazecompiler-javascript-nrxx.onrender.com",
-    "https://blazecompiler-php-v3iz.onrender.com"
+    "https://blazecompiler-php-v3iz.onrender.com",
+    "https://blazecompiler-c-esgd.onrender.com"
 ]
 
 while True:
