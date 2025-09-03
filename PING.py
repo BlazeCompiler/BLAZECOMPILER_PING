@@ -9,7 +9,8 @@ urls = [
     "https://blazecompiler-php-v3iz.onrender.com",
     "https://blazecompiler-c-esgd.onrender.com",
     "https://blazecompiler-csharp-ozxb.onrender.com",
-    "https://blazecompiler-typescript-irii.onrender.com"
+    "https://blazecompiler-typescript-irii.onrender.com",
+    "https://blazecompiler-r-8iwh.onrender.com"
 ]
 
 while True:
