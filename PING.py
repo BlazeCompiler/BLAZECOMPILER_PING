@@ -11,7 +11,9 @@ urls = [
     "https://blazecompiler-csharp-ozxb.onrender.com",
     "https://blazecompiler-typescript-irii.onrender.com",
     "https://blazecompiler-r-8iwh.onrender.com",
-    "https://blazecompiler-java-4qoe.onrender.com"
+    "https://blazecompiler-java-4qoe.onrender.com",
+    "https://blazecompiler-rust-h4zn.onrender.com",
+    "https://blazecompiler-golang-iisr.onrender.com",
 ]
 
 while True:
