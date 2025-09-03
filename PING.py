@@ -10,7 +10,8 @@ urls = [
     "https://blazecompiler-c-esgd.onrender.com",
     "https://blazecompiler-csharp-ozxb.onrender.com",
     "https://blazecompiler-typescript-irii.onrender.com",
-    "https://blazecompiler-r-8iwh.onrender.com"
+    "https://blazecompiler-r-8iwh.onrender.com",
+    "https://blazecompiler-java-4qoe.onrender.com"
 ]
 
 while True:
